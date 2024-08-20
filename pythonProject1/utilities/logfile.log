@@ -1,0 +1,11 @@
+2024-08-16 01:00:59,408 : INFO : test_e2eFlow : Country name is selected as India
+2024-08-16 01:01:04,607 : INFO : test_e2eFlow : Text message received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-16 01:01:07,629 : INFO : test_formSubmission : User name is Purvesh Sevak
+2024-08-16 01:01:07,937 : INFO : test_formSubmission : User name is Test User
+2024-08-16 01:01:44,410 : INFO : test_e2eFlow : Country name is selected as India
+2024-08-16 01:01:49,870 : INFO : test_e2eFlow : Text message received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-16 01:01:52,460 : INFO : test_formSubmission : User name is Purvesh Sevak
+2024-08-16 01:01:52,796 : INFO : test_formSubmission : User name is Test User
+2024-08-18 01:34:14,287 : INFO : test_formSubmission : User name is Purvesh Sevak
