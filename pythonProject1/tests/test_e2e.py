@@ -12,6 +12,7 @@ class TestOne(BaseClass):
 
     def test_e2eFlow(self):
 
+        # e2e code for phone order placement
         log = self.getLogger()
         homePage = HomePage(self.driver)
 
