@@ -14,6 +14,7 @@ class TestOne(BaseClass):
 
         # e2e code for phone order placement
         # new QA commit
+        # this is to test the branch merging
         log = self.getLogger()
         homePage = HomePage(self.driver)
 
